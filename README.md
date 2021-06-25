@@ -17,7 +17,8 @@ RAD51: Desempeña un papel en la mediación de la búsqueda de homología cromos
 Adjunto los archivos obtenidos en genemania
 [genemania-report (1).pdf](https://github.com/shirley-18/Red_Arabidopsis/files/6713421/genemania-report.1.pdf)
 [genemania-genes.1.txt](https://github.com/shirley-18/Red_Arabidopsis/files/6713422/genemania-genes.1.txt)
-![genemania-network](https://user-images.githubusercontent.com/85636669/123366667-35aab280-d53e-11eb-9d0d-29cb61341c1c.jpg)
+![genemania-network (1)](https://user-images.githubusercontent.com/85636669/123367598-d51c7500-d53f-11eb-943f-fab235134845.jpg)
+
 
 FUENTES: 
 https://genemania.org/search/arabidopsis-thaliana/AGL67/MSH2/DMC1/RAD51AP1/RAD50/MSH6/XRCC3/PCNA/XRCC2/RAD54B/MRE11A/r%20TFsSeed-subNetDT2/
